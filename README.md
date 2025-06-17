@@ -57,6 +57,6 @@ Este proyecto consistió en la automatización de un proceso de construcción ut
 
 ---
 
-![Vista del pipeline](C:\Users\navar\Pictures/jenkins.png)
+![Vista del pipeline](src/images/jenkins.png)
 
 🚀 *Este ejercicio fue una introducción práctica al uso de Jenkins como herramienta clave en DevOps, permitiéndonos experimentar los beneficios reales de la automatización desde el primer momento.*
